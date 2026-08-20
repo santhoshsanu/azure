@@ -9,3 +9,7 @@
 ## Trivy
 
 * “Trivy is an open-source security scanner used in DevOps pipelines. It can scan container images, dependencies, and Infrastructure as Code such as Terraform and Kubernetes configurations for vulnerabilities, secrets, and security misconfigurations. We can integrate it into CI/CD and prevent vulnerable code or images from being deployed.”
+
+
+## SonarQube
+* “SonarQube is a code quality and code security analysis tool. We integrate it into CI/CD pipelines to analyze source code for bugs, vulnerabilities, code smells, duplicated code, and maintainability issues. We can configure a Quality Gate so that if the code doesn't meet our quality standards, the pipeline can fail and prevent deployment.”
